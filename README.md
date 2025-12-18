@@ -1,2 +1,2 @@
 # Customizeable Interactive Particle System
-[gif example](./example.gif)
+![gif example](./example.gif)
